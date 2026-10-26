@@ -1,0 +1,6 @@
+{
+  "name": "testNVIDIA",
+  "symbol": "tNVDAx",
+  "description": "Test token on Solana",
+  "image": "https://raw.githubusercontent.com/hoseinshokrolahi/tnvdax-metadata/main/logo.png"
+}
