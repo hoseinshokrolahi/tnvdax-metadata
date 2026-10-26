@@ -1,6 +1,6 @@
 {
-  "name": "NVIDIA",
-  "symbol": "NVDAx",
-  "description": "NVIDIA token on solana",
+  "name": "USDT",
+  "symbol": "USDT",
+  "description": "Tether token on solana",
   "image": "https://raw.githubusercontent.com/hoseinshokrolahi/tnvdax-metadata/main/logo.png"
 }
